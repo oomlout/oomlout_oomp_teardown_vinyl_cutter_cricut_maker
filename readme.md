@@ -1,5 +1,5 @@
-# Oomp Teardown Label Printer Niimbot D110
-Oomp Teardown Label Printer Niimbot D110
+# Oomp Teardown Vinyl Cutter Cricut Maker
+Oomp Teardown Vinyl Cutter Cricut Maker
 disassembly youtube  
 https://www.youtube.com/watch?v=wyUi8AG-vfo  
 https://www.youtube.com/watch?v=6P9s3b0ZLs0
