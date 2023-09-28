@@ -32,7 +32,14 @@ remove the seven hidden screws, need a short screwdriver
 [![remove the top cover](images/disassembly_6_300.jpg)](images/disassembly_6.jpg)  
 remove the top cover. careful with the cable connecting the control panel
 
+## step: 7 remove the mechanism
+[![remove the mechanism](images/disassembly_7_300.jpg)](images/disassembly_7.jpg)  
+remove the six screws attaching the mechanism to the base. remove the ribbon cable for the moving part
+
 # pcb
+
+## front
+[![front](images/pcb_1_front_300.jpg)](images/pcb_1_front.jpg)  
 
 
 # parts_table
@@ -40,3 +47,6 @@ remove the top cover. careful with the cable connecting the control panel
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 | motor1 | [![motor1](images/part_motor1_140.jpg)](images/part_motor1.jpg)  |  | y axis, roller paper forward and back |  |  | HC385MG |  |  | 
 | motor2 | [![motor2](images/part_motor2_140.jpg)](images/part_motor2.jpg)  |  | x axis, knife head across |  |  | HC385MG |  |  | 
+| u100 | [![u100](images/part_u100_140.jpg)](images/part_u100.jpg)  |  | mcu | mcu | mcu microchip 1918ha5 | microchip_1918HA5 |  |  | 
+| u601 | [![u601](images/part_u601_140.jpg)](images/part_u601.jpg)  |  |  |  | full bridge pwm motor controller a4950 | allegro_a4950 |  | https://www.allegromicro.com/en/products/motor-drivers/brush-dc-motor-drivers/a4950 | 
+| u602 |  |  |  |  | full bridge pwm motor controller a4950 | allegro_a4950 |  | https://www.allegromicro.com/en/products/motor-drivers/brush-dc-motor-drivers/a4950 | 

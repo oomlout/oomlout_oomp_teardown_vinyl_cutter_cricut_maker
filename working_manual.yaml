@@ -26,4 +26,7 @@ disassembly:
 - index: 6
   title: "remove the top cover"
   description: "remove the top cover. careful with the cable connecting the control panel"
+- index: 7
+  title: "remove the mechanism"
+  description: "remove the six screws attaching the mechanism to the base. remove the ribbon cable for the moving part"
 
