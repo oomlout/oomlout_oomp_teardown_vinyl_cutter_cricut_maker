@@ -1,0 +1,3 @@
+designator,designator_image,oomp_key,note,description,description_long,mpn,lcsc,link
+motor1,[![motor1](images/part_motor1_140.jpg)](images/part_motor1.jpg) ,,"y axis, roller paper forward and back",,,HC385MG,,
+motor2,[![motor2](images/part_motor2_140.jpg)](images/part_motor2.jpg) ,,"x axis, knife head across",,,HC385MG,,

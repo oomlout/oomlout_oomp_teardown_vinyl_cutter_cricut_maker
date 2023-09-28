@@ -1,0 +1,29 @@
+id: oomlout_oomp_teardown_label_printer_niimbot_d110
+name: "Oomp Teardown Label Printer Niimbot D110"
+description: "Oomp Teardown Label Printer Niimbot D110"
+readme_manual: |
+  disassembly youtube  
+  https://www.youtube.com/watch?v=wyUi8AG-vfo  
+  https://www.youtube.com/watch?v=6P9s3b0ZLs0
+  https://www.youtube.com/watch?v=LtGMsMsjEp4
+  https://www.youtube.com/watch?v=SUNwsj4OF90&t=1s
+disassembly:
+- index: 1
+  title: "assembled"
+  description: "before starting"
+- index: 2
+  title: "assembled and open"
+  description: "assembled and open"
+- index: 3
+  title: "underneath"
+  description: "remove the four screws under the non slip pads (leave  the other screws)"
+- index: 4
+  title: "remove the vanity plate cover"
+  description: "remove the top vanity plate cover. it is hot glued down at the top corner (notice broken pice), needs some convincing to come off. Then remove four torx screws"
+- index: 5
+  title: "remove the hidden screws"
+  description: "remove the seven hidden screws, need a short screwdriver"
+- index: 6
+  title: "remove the top cover"
+  description: "remove the top cover. careful with the cable connecting the control panel"
+
