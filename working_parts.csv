@@ -1,11 +1,11 @@
 designator,designator_image,oomp_id,note,link
 motor1,[![motor1](images/part_motor1_140.jpg)](images/part_motor1.jpg) ,,"y axis, roller paper forward and back",
 motor2,[![motor2](images/part_motor2_140.jpg)](images/part_motor2.jpg) ,,"x axis, knife head across",
-u100,[![u100](images/part_u100_140.jpg)](images/part_u100.jpg) ,,"mcu, 
+u100,[![u100](images/part_u100_140.jpg)](images/part_u100.jpg) ,electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100,"mcu, 
 custom labeled pic? 
 100 pin tqfp 12x12 0.4 mm pitch 
 footprint kicad_package_qfp_tqfp_100_12x12mm_p0_4mm
-symbol",
+symbol kicad_mcu_microchip_pic32_pic32mk1024gpd100_xpt",
 p200,[![p200](images/part_p200_140.jpg)](images/part_p200.jpg) ,electronic_header_2_5_mm_jst_xh_8_pin_through_hole,"jst xh 8 pin connector  
 For optical encoders",
 p600,[![p600](images/part_p600_140.jpg)](images/part_p600.jpg) ,electronic_header_2_5_mm_jst_xh_6_pin_through_hole,"js xh 6 pin
