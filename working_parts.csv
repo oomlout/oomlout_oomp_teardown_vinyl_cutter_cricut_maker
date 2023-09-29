@@ -1,4 +1,4 @@
-designator,designator_image,oomp_key,note,link
+designator,designator_image,oomp_id,note,link
 motor1,[![motor1](images/part_motor1_140.jpg)](images/part_motor1.jpg) ,,"y axis, roller paper forward and back",
 motor2,[![motor2](images/part_motor2_140.jpg)](images/part_motor2.jpg) ,,"x axis, knife head across",
 u100,[![u100](images/part_u100_140.jpg)](images/part_u100.jpg) ,,"mcu, 

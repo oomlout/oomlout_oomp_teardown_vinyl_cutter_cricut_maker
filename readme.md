@@ -43,19 +43,13 @@ remove the six screws attaching the mechanism to the base. remove the ribbon cab
 
 
 # parts_table
-| designator | designator_image | oomp_key | note | link | 
+| designator | designator_image | oomp_id | note | link | 
 | --- | --- | --- | --- | --- | 
 | motor1 | [![motor1](images/part_motor1_140.jpg)](images/part_motor1.jpg)  |  | y axis, roller paper forward and back |  | 
 | motor2 | [![motor2](images/part_motor2_140.jpg)](images/part_motor2.jpg)  |  | x axis, knife head across |  | 
-| u100 | [![u100](images/part_u100_140.jpg)](images/part_u100.jpg)  |  | mcu, 
-custom labeled pic? 
-100 pin tqfp 12x12 0.4 mm pitch 
-footprint kicad_package_qfp_tqfp_100_12x12mm_p0_4mm
-symbol |  | 
-| p200 | [![p200](images/part_p200_140.jpg)](images/part_p200.jpg)  | electronic_header_2_5_mm_jst_xh_8_pin_through_hole | jst xh 8 pin connector  
-For optical encoders |  | 
-| p600 | [![p600](images/part_p600_140.jpg)](images/part_p600.jpg)  | electronic_header_2_5_mm_jst_xh_6_pin_through_hole | js xh 6 pin
-For drive motors |  | 
+| u100 | [![u100](images/part_u100_140.jpg)](images/part_u100.jpg)  |  | mcu, <br>custom labeled pic? <br>100 pin tqfp 12x12 0.4 mm pitch <br>footprint kicad_package_qfp_tqfp_100_12x12mm_p0_4mm<br>symbol |  | 
+| p200 | [![p200](images/part_p200_140.jpg)](images/part_p200.jpg)  | [electronic_header_2_5_mm_jst_xh_8_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_8_pin_through_hole/working)<br><br> | jst xh 8 pin connector  <br>For optical encoders |  | 
+| p600 | [![p600](images/part_p600_140.jpg)](images/part_p600.jpg)  | [electronic_header_2_5_mm_jst_xh_6_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_6_pin_through_hole/working)<br><br> | js xh 6 pin<br>For drive motors |  | 
 | u600 | [![u600](images/part_u600_140.jpg)](images/part_u600.jpg)  |  | allegro 4954 motor driver | https://www.allegromicro.com/en/products/motor-drivers/brush-dc-motor-drivers/a4954 | 
 | u601 | [![u601](images/part_u601_140.jpg)](images/part_u601.jpg)  |  | allegro a4950 motor driver | https://www.allegromicro.com/en/products/motor-drivers/brush-dc-motor-drivers/a4950 | 
 | u602 | [![u602](images/part_u602_140.jpg)](images/part_u602.jpg)  |  | allegro a4950 motor driver | https://www.allegromicro.com/en/products/motor-drivers/brush-dc-motor-drivers/a4950 | 
